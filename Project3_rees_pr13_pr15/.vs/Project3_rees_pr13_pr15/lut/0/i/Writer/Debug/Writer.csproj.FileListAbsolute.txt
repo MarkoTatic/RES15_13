@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Writer\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Writer\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Writer\bin\Debug\nunit.engine.dll
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Writer\bin\Debug\nunit.engine.api.dll
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Writer\bin\Debug\Writer.exe.config
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Writer\bin\Debug\Writer.exe
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Writer\bin\Debug\Writer.pdb
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Writer\Debug\Writer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Writer\Debug\Writer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Writer\Debug\Writer.exe
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Writer\Debug\Writer.pdb

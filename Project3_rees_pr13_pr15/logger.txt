@@ -1,0 +1,371 @@
+[6/1/2019 1:14:43 PM] - +
+[6/1/2019 1:14:44 PM] - +
+[6/1/2019 1:14:45 PM] - +
+[6/1/2019 1:15:35 PM] - +
+[6/1/2019 1:15:35 PM] - +
+[6/1/2019 1:15:35 PM] - +
+[6/1/2019 1:15:36 PM] - +
+[6/1/2019 1:15:40 PM] - +
+[6/1/2019 1:55:47 PM] - +
+[6/1/2019 1:55:48 PM] - +
+[6/1/2019 2:01:22 PM] - +
+[6/1/2019 2:01:29 PM] - +
+[6/1/2019 2:01:33 PM] - +
+[6/1/2019 2:11:12 PM] - +
+[6/1/2019 2:11:14 PM] - +
+[6/1/2019 2:42:12 PM] - +
+[6/1/2019 2:42:13 PM] - +
+[6/1/2019 2:42:13 PM] - +
+[6/1/2019 2:42:14 PM] - +
+[6/1/2019 2:42:14 PM] - +
+[6/1/2019 2:44:54 PM] - +
+[6/1/2019 2:44:55 PM] - +
+[6/1/2019 2:44:55 PM] - +
+[6/1/2019 2:44:56 PM] - +
+[6/1/2019 2:44:56 PM] - +
+[6/1/2019 2:46:51 PM] - +
+[6/1/2019 2:48:11 PM] - +
+[6/1/2019 2:48:12 PM] - +
+[6/1/2019 2:49:25 PM] - +
+[6/1/2019 2:51:57 PM] - +
+[6/1/2019 2:51:57 PM] - +
+[6/1/2019 2:51:57 PM] - +
+[6/1/2019 2:51:58 PM] - +
+[6/1/2019 2:55:12 PM] - +
+[6/1/2019 2:55:16 PM] - Podatak odbacenCODE_SINGLENODE - 57
+[6/1/2019 2:55:18 PM] - Podatak odbacenCODE_CUSTOM - 27
+[6/1/2019 2:55:20 PM] - Podatak odbacenCODE_CUSTOM - 27
+[6/1/2019 2:55:24 PM] - Podatak odbacenCODE_CONSUMER - 87
+[6/1/2019 2:55:26 PM] - +
+[6/1/2019 2:55:26 PM] - Podatak odbacenCODE_SINGLENODE - 57
+[6/1/2019 2:55:28 PM] - Podatak odbacenCODE_SINGLENODE - 57
+[6/1/2019 2:55:30 PM] - Podatak odbacenCODE_CONSUMER - 78
+[6/1/2019 2:55:54 PM] - Podatak odbacenCODE_SINGLENODE - 58
+[6/1/2019 2:56:21 PM] - Podatak odbacenCODE_ANALOG - 3
+[6/1/2019 3:00:21 PM] - +
+[6/1/2019 3:00:21 PM] - +
+[6/1/2019 3:00:22 PM] - +
+[6/1/2019 3:00:22 PM] - +
+[6/1/2019 3:00:23 PM] - +
+[6/1/2019 3:00:24 PM] - Podatak odbacenCODE_CUSTOM - 30
+[6/1/2019 3:00:26 PM] - Podatak odbacenCODE_SINGLENODE - 59
+[6/1/2019 3:00:26 PM] - Podatak odbacenCODE_SINGLENODE - 59
+[6/1/2019 3:00:26 PM] - Podatak odbacenCODE_SINGLENODE - 59
+[6/1/2019 3:00:28 PM] - Podatak odbacenCODE_ANALOG - 0
+[6/1/2019 3:00:39 PM] - +
+[6/1/2019 3:00:50 PM] - Podatak odbacenCODE_CONSUMER - 75
+[6/1/2019 3:05:16 PM] - +
+[6/1/2019 3:05:17 PM] - Podatak odbacenCODE_SINGLENODE - 52
+[6/1/2019 3:05:19 PM] - Podatak odbacenCODE_SINGLENODE - 52
+[6/1/2019 3:05:21 PM] - Podatak odbacenCODE_SINGLENODE - 52
+[6/1/2019 3:05:28 PM] - +
+[6/1/2019 3:05:29 PM] - Podatak odbacenCODE_ANALOG - 3
+[6/1/2019 3:05:31 PM] - Podatak odbacenCODE_ANALOG - 3
+[6/1/2019 3:05:32 PM] - +
+[6/1/2019 3:05:33 PM] - +
+[6/1/2019 3:05:33 PM] - Podatak odbacenCODE_ANALOG - 3
+[6/1/2019 3:05:33 PM] - Podatak odbacenCODE_SOURCE - 88
+[6/1/2019 3:05:35 PM] - Podatak odbacenCODE_CUSTOM - 27
+[6/1/2019 3:05:35 PM] - Podatak odbacenCODE_CUSTOM - 27
+[6/1/2019 3:05:41 PM] - Podatak odbacenCODE_ANALOG - 3
+[6/1/2019 3:05:45 PM] - Podatak odbacenCODE_SINGLENODE - 57
+[6/1/2019 3:17:34 PM] - +
+[6/1/2019 3:17:37 PM] - +
+[6/1/2019 3:18:01 PM] - Podatak odbacenCODE_SOURCE - 88
+[6/1/2019 3:27:14 PM] - .
+[6/1/2019 3:27:15 PM] - +
+[6/1/2019 3:27:16 PM] - +
+[6/1/2019 3:27:20 PM] - Podatak odbacenCODE_SOURCE - 93
+[6/1/2019 3:27:22 PM] - Podatak odbacenCODE_ANALOG - 5
+[6/1/2019 3:27:24 PM] - Podatak odbacenCODE_SOURCE - 93
+[6/1/2019 3:27:24 PM] - Podatak odbacenCODE_SOURCE - 93
+[6/1/2019 3:27:34 PM] - Podatak odbacenCODE_SINGLENODE - 58
+[6/1/2019 3:27:42 PM] - Podatak odbacenCODE_LIMITSET - 46
+[6/1/2019 3:27:44 PM] - Podatak odbacenCODE_SINGLENODE - 58
+[6/1/2019 3:27:48 PM] - Podatak odbacenCODE_CUSTOM - 34
+[6/1/2019 3:27:50 PM] - Podatak odbacenCODE_LIMITSET - 46
+[6/1/2019 3:28:13 PM] - Podatak odbacenCODE_SOURCE - 95
+[6/1/2019 3:28:21 PM] - Podatak odbacenCODE_SOURCE - 95
+[6/1/2019 3:28:31 PM] - Podatak odbacenCODE_SINGLENODE - 59
+[6/1/2019 3:30:14 PM] - +
+[6/1/2019 3:30:17 PM] - +
+[6/1/2019 3:30:21 PM] - Podatak odbacenCODE_SOURCE - 94
+[6/1/2019 3:30:21 PM] - Podatak odbacenCODE_SOURCE - 94
+[6/1/2019 3:30:23 PM] - Podatak odbacenCODE_SINGLENODE - 58
+[6/1/2019 3:30:25 PM] - Podatak odbacenCODE_MULTIPLENODE - 70
+[6/1/2019 3:30:27 PM] - Podatak odbacenCODE_CONSUMER - 82
+[6/1/2019 3:30:31 PM] - Podatak odbacenCODE_SINGLENODE - 58
+[6/1/2019 5:19:10 PM] - +
+[6/1/2019 5:19:11 PM] - +
+[6/1/2019 5:19:11 PM] - +
+[6/1/2019 5:19:12 PM] - +
+[6/1/2019 5:19:12 PM] - Podatak odbacenCODE_MULTIPLENODE - 70
+[6/1/2019 5:19:13 PM] - Podatak odbacenCODE_MULTIPLENODE - 70
+[6/1/2019 5:19:17 PM] - Podatak odbacenCODE_CUSTOM - 35
+[6/1/2019 6:04:23 PM] - +
+testString
+testString
+testString
+ 
+ 
+
+
+
+
+[6/1/2019 8:15:05 PM] - Podatak odbacenCODE_CONSUMER - 79
+[6/1/2019 8:15:13 PM] - Podatak odbacenCODE_SINGLENODE - 56
+[6/1/2019 8:15:35 PM] - Podatak odbacenCODE_SINGLENODE - 62
+[6/1/2019 8:15:37 PM] - Podatak odbacenCODE_CONSUMER - 83
+[6/1/2019 8:15:39 PM] - Podatak odbacenCODE_CONSUMER - 83
+[6/1/2019 8:15:39 PM] - Podatak odbacenCODE_SINGLENODE - 53
+[6/1/2019 8:15:39 PM] - Podatak odbacenCODE_SINGLENODE - 53
+[6/1/2019 8:15:45 PM] - Podatak odbacenCODE_SOURCE - 91
+
+
+
+
+
+
+
+[6/1/2019 11:07:48 PM] - Podatak odbacenCODE_CUSTOM - 34
+[6/1/2019 11:08:08 PM] - Podatak odbacenCODE_SOURCE - 94
+[6/1/2019 11:08:14 PM] - Podatak odbacenCODE_CONSUMER - 85
+[6/1/2019 11:08:16 PM] - Podatak odbacenCODE_MULTIPLENODE - 70
+
+
+
+
+
+
+
+[6/1/2019 11:43:31 PM] - Podatak odbacenCODE_SINGLENODE - 54
+[6/1/2019 11:43:33 PM] - Podatak odbacenCODE_SINGLENODE - 54
+[6/1/2019 11:43:39 PM] - Podatak odbacenCODE_CUSTOM - 30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[6/2/2019 12:44:46 AM] - Podatak odbacenCODE_CUSTOM - 27
+[6/2/2019 12:44:48 AM] - Podatak odbacenCODE_SOURCE - 96
+[6/2/2019 12:45:30 AM] - Podatak odbacenCODE_SOURCE - 93
+[6/2/2019 12:45:36 AM] - Podatak odbacenCODE_MULTIPLENODE - 68
+[6/2/2019 12:45:38 AM] - Podatak odbacenCODE_SINGLENODE - 53
+[6/2/2019 12:46:00 AM] - Podatak odbacenCODE_LIMITSET - 44
+[6/2/2019 12:46:06 AM] - Podatak odbacenCODE_CUSTOM - 35
+[6/2/2019 12:46:18 AM] - Podatak odbacenCODE_MULTIPLENODE - 65
+[6/2/2019 12:46:24 AM] - Podatak odbacenCODE_SINGLENODE - 56
+
+
+
+
+[6/2/2019 1:00:55 AM] - Podatak odbacenCODE_CUSTOM - 26
+[6/2/2019 1:00:57 AM] - Podatak odbacenCODE_CUSTOM - 26
+[6/2/2019 1:01:03 AM] - Podatak odbacenCODE_MULTIPLENODE - 71
+[6/2/2019 1:01:05 AM] - Podatak odbacenCODE_SINGLENODE - 56
+[6/2/2019 1:01:07 AM] - Podatak odbacenCODE_SINGLENODE - 56
+[6/2/2019 1:01:09 AM] - Podatak odbacenCODE_SINGLENODE - 56
+
+
+[6/2/2019 1:14:04 AM] - Podatak odbacenCODE_SOURCE - 89
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[6/2/2019 2:26:53 PM] - Podatak odbacenCODE_LIMITSET - 40
+[6/2/2019 2:27:19 PM] - Podatak odbacenCODE_SINGLENODE - 61
+[6/2/2019 2:27:21 PM] - Podatak odbacenCODE_ANALOG - 0
+[6/2/2019 2:27:21 PM] - Podatak odbacenCODE_CONSUMER - 85
+[6/2/2019 2:27:21 PM] - Podatak odbacenCODE_MULTIPLENODE - 70
+[6/2/2019 2:27:27 PM] - Podatak odbacenCODE_SINGLENODE - 61
+
+[6/2/2019 4:02:06 PM] - Podatak odbacenCODE_ANALOG - 0
+[6/2/2019 4:03:18 PM] - Poslednja procitana vrednost je: 11
+[6/2/2019 4:03:20 PM] - Poslednja procitana osvezena vrednost je: 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[6/2/2019 4:30:01 PM] - Podatak odbacenCODE_MULTIPLENODE - 71
+[6/2/2019 4:30:05 PM] - Podatak odbacenCODE_SINGLENODE - 56
+
+
+
+
+
+
+
+[6/2/2019 7:38:39 PM] - Podatak odbacenCODE_CONSUMER - 83
+[6/2/2019 7:38:41 PM] - Podatak odbacenCODE_SINGLENODE - 57
+
+
+
+
+
+
+
+[6/2/2019 7:55:16 PM] - Podatak odbacenCODE_CONSUMER - 76
+[6/2/2019 7:55:41 PM] - Podatak odbacenCODE_SOURCE - 93
+[6/2/2019 7:55:49 PM] - Podatak odbacenCODE_SINGLENODE - 53
+[6/2/2019 7:56:05 PM] - Podatak odbacenCODE_ANALOG - 8
+[6/2/2019 7:56:13 PM] - Podatak odbacenCODE_CONSUMER - 84
+[6/2/2019 7:56:23 PM] - Podatak odbacenCODE_CUSTOM - 29
+[6/2/2019 7:56:31 PM] - Podatak odbacenCODE_ANALOG - 5
+[6/2/2019 7:57:05 PM] - Podatak odbacenCODE_SINGLENODE - 51
+[6/2/2019 7:57:45 PM] - Podatak odbacenCODE_ANALOG - 8
+[6/2/2019 7:57:45 PM] - Podatak odbacenCODE_LIMITSET - 40
+[6/2/2019 7:57:45 PM] - Podatak odbacenCODE_ANALOG - 8
+
+
+
+
+
+[6/2/2019 8:12:00 PM] - Podatak odbacenCODE_SINGLENODE - 59
+[6/2/2019 8:12:07 PM] - Poslednja procitana vrednost je: 2
+[6/2/2019 8:12:09 PM] - Poslednja procitana osvezena vrednost je: 2
+[6/2/2019 8:12:10 PM] - Poslednja procitana osvezena vrednost je: 2
+[6/2/2019 8:12:16 PM] - Podatak odbacenCODE_CONSUMER - 83
+[6/2/2019 8:13:07 PM] - Procitane vrednosti iz intervala su: 
+[6/2/2019 8:14:23 PM] - Podatak odbacenCODE_SOURCE - 88
+[6/2/2019 8:14:23 PM] - Podatak odbacenCODE_SINGLENODE - 58
+[6/2/2019 8:14:25 PM] - Podatak odbacenCODE_SINGLENODE - 58
+[6/2/2019 8:14:29 PM] - Podatak odbacenCODE_SOURCE - 88
+[6/2/2019 8:14:31 PM] - Podatak odbacenCODE_MULTIPLENODE - 73
+[6/2/2019 8:14:33 PM] - Podatak odbacenCODE_SINGLENODE - 58
+[6/2/2019 8:14:35 PM] - Podatak odbacenCODE_CONSUMER - 79
+[6/2/2019 8:14:55 PM] - Podatak odbacenCODE_MULTIPLENODE - 69
+[6/2/2019 8:15:07 PM] - Podatak odbacenCODE_CUSTOM - 34
+[6/2/2019 8:15:23 PM] - Podatak odbacenCODE_SOURCE - 90
+[6/2/2019 8:15:23 PM] - Procitane vrednosti iz intervala su: 2  8  10  
+
+
+[6/3/2019 12:04:37 AM] - Podatak odbacenCODE_CUSTOM - 30
+
+[6/3/2019 12:13:53 AM] - Podatak odbacenCODE_SINGLENODE - 55
+[6/3/2019 12:14:13 AM] - Podatak odbacenCODE_SINGLENODE - 52
+[6/3/2019 12:14:31 AM] - Podatak odbacenCODE_SOURCE - 97
+
+
+[6/3/2019 2:05:51 AM] - Los unos datuma. Trenutak kraja intervala je kasniji od trenutka pocetka intervala...
+[6/3/2019 2:07:04 AM] - Los unos datuma. Trenutak kraja intervala je kasniji od trenutka pocetka intervala...
+[6/3/2019 2:07:04 AM] - Los unos datuma. Trenutci pocetka i kraja su isti...
+[6/3/2019 2:08:19 AM] - Los unos datuma. Trenutak kraja intervala je kasniji od trenutka pocetka intervala...
+[6/3/2019 2:08:19 AM] - Los unos datuma. Trenutci pocetka i kraja su isti...
+[6/3/2019 2:09:14 AM] - Los unos datuma. Trenutak kraja intervala je kasniji od trenutka pocetka intervala...
+[6/3/2019 2:09:14 AM] - Los unos datuma. Trenutci pocetka i kraja su isti...
+
+[6/3/2019 2:11:08 AM] - Los unos datuma. Trenutci pocetka i kraja su isti...
+[6/3/2019 2:11:24 AM] - Los unos datuma. Trenutak kraja intervala je kasniji od trenutka pocetka intervala...
+[6/3/2019 2:11:39 AM] - Procitane vrednosti iz intervala su: 
+[6/3/2019 2:13:21 AM] - Procitane vrednosti iz intervala su: 
+[6/3/2019 12:26:52 PM] - Podatak odbacenCODE_MULTIPLENODE - 74
+[6/3/2019 12:27:40 PM] - Los unos datuma. Trenutak kraja intervala je kasniji od trenutka pocetka intervala...
+[6/3/2019 12:27:40 PM] - Los unos datuma. Trenutci pocetka i kraja su isti...
+
+[6/3/2019 12:28:00 PM] - Los unos datuma. Trenutak kraja intervala je kasniji od trenutka pocetka intervala...
+[6/3/2019 12:28:00 PM] - Los unos datuma. Trenutci pocetka i kraja su isti...
+
+[6/3/2019 1:04:18 PM] - Podatak odbacenCODE_CONSUMER - 80
+[6/3/2019 1:04:20 PM] - Podatak odbacenCODE_MULTIPLENODE - 65
+[6/3/2019 1:04:32 PM] - Podatak odbacenCODE_SOURCE - 94
+[6/3/2019 1:05:00 PM] - Podatak odbacenCODE_MULTIPLENODE - 71
+[6/3/2019 1:05:20 PM] - Podatak odbacenCODE_SOURCE - 97
+[6/3/2019 1:05:22 PM] - Podatak odbacenCODE_CONSUMER - 82
+[6/3/2019 1:06:41 PM] - Podatak odbacenCODE_CUSTOM - 31
+[6/3/2019 1:06:43 PM] - Podatak odbacenCODE_ANALOG - 10
+[6/3/2019 1:06:43 PM] - Podatak odbacenCODE_CUSTOM - 31
+[6/3/2019 1:06:45 PM] - Podatak odbacenCODE_MULTIPLENODE - 63
+[6/3/2019 1:06:45 PM] - Podatak odbacenCODE_MULTIPLENODE - 63
+[6/3/2019 1:06:47 PM] - Podatak odbacenCODE_SINGLENODE - 53
+[6/3/2019 1:06:51 PM] - Podatak odbacenCODE_CONSUMER - 78
+[6/3/2019 1:06:55 PM] - Podatak odbacenCODE_CUSTOM - 32
+[6/3/2019 1:07:17 PM] - Podatak odbacenCODE_SOURCE - 98
+[6/3/2019 1:09:09 PM] - Podatak odbacenCODE_CONSUMER - 84
+[6/3/2019 1:09:11 PM] - Podatak odbacenCODE_CONSUMER - 84
+[6/3/2019 1:09:29 PM] - Podatak odbacenCODE_SINGLENODE - 58
+[6/3/2019 4:46:44 PM] - Los unos datuma. Trenutak kraja intervala je kasniji od trenutka pocetka intervala...
+[6/3/2019 4:46:44 PM] - Los unos datuma. Trenutci pocetka i kraja su isti...
+
+[6/3/2019 4:58:15 PM] - Podatak odbacenCODE_CUSTOM - 29
+[6/3/2019 4:58:15 PM] - Podatak odbacenCODE_CUSTOM - 29
+[6/3/2019 4:58:19 PM] - Podatak odbacenCODE_ANALOG - 10
+[6/3/2019 4:58:37 PM] - Podatak odbacenCODE_SOURCE - 95
+[6/3/2019 5:08:31 PM] - Los unos datuma. Trenutak kraja intervala je kasniji od trenutka pocetka intervala...
+[6/3/2019 5:08:31 PM] - Los unos datuma. Trenutci pocetka i kraja su isti...
+
+[6/3/2019 5:09:15 PM] - Podatak odbacenCODE_CUSTOM - 30
+[6/3/2019 5:09:17 PM] - Podatak odbacenCODE_CUSTOM - 30
+[6/3/2019 5:09:21 PM] - Podatak odbacenCODE_SINGLENODE - 60
+[6/3/2019 5:09:23 PM] - Podatak odbacenCODE_CONSUMER - 75
+[6/3/2019 5:09:23 PM] - Podatak odbacenCODE_SINGLENODE - 60
+[6/3/2019 5:09:47 PM] - Podatak odbacenCODE_SOURCE - 96
+[6/3/2019 5:09:49 PM] - Podatak odbacenCODE_CONSUMER - 81
+[6/3/2019 5:10:07 PM] - Poslednja procitana vrednost je: 0
+[6/3/2019 5:10:09 PM] - Poslednja procitana osvezena vrednost je: 1
+[6/3/2019 5:10:10 PM] - Poslednja procitana osvezena vrednost je: 1
+[6/3/2019 5:10:11 PM] - Poslednja procitana osvezena vrednost je: 1
+[6/3/2019 5:10:11 PM] - Poslednja procitana osvezena vrednost je: 1
+[6/3/2019 5:10:12 PM] - Poslednja procitana osvezena vrednost je: 1
+[6/3/2019 5:10:13 PM] - Poslednja procitana osvezena vrednost je: 1
+[6/3/2019 5:10:14 PM] - Poslednja procitana osvezena vrednost je: 1
+[6/3/2019 5:10:17 PM] - Poslednja procitana osvezena vrednost je: 1
+[6/3/2019 5:10:18 PM] - Poslednja procitana osvezena vrednost je: 1
+[6/3/2019 5:10:25 PM] - Podatak odbacenCODE_CONSUMER - 82
+[6/3/2019 5:10:29 PM] - Poslednja procitana vrednost je: 7
+[6/3/2019 5:10:31 PM] - Poslednja procitana osvezena vrednost je: 7
+[6/3/2019 5:10:32 PM] - Poslednja procitana osvezena vrednost je: 7
+[6/3/2019 5:10:33 PM] - Podatak odbacenCODE_SINGLENODE - 58
+[6/3/2019 5:10:34 PM] - Poslednja procitana osvezena vrednost je: 7
+[6/3/2019 5:10:36 PM] - Poslednja procitana osvezena vrednost je: 7
+[6/3/2019 5:10:37 PM] - Poslednja procitana osvezena vrednost je: 7
+[6/3/2019 5:10:38 PM] - Poslednja procitana osvezena vrednost je: 7
+[6/3/2019 5:10:39 PM] - Poslednja procitana osvezena vrednost je: 7
+[6/3/2019 5:10:43 PM] - Poslednja procitana osvezena vrednost je: 7
+[6/3/2019 5:10:44 PM] - Poslednja procitana osvezena vrednost je: 3
+[6/3/2019 5:10:45 PM] - Poslednja procitana osvezena vrednost je: 3
+[6/3/2019 5:10:57 PM] - Podatak odbacenCODE_SOURCE - 89

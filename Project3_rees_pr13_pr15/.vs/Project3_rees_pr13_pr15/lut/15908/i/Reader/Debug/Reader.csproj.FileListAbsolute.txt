@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Reader\bin\Debug\Reader.exe.config
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Reader\bin\Debug\Reader.exe
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Reader\bin\Debug\Reader.pdb
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Reader\Debug\Reader.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Reader\Debug\Reader.exe
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Reader\Debug\Reader.pdb

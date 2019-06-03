@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Contract\bin\Debug\Contract.dll
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Contract\bin\Debug\Contract.pdb
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Contract\Debug\Contract.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Contract\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Contract\Debug\Contract.dll
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Contract\Debug\Contract.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Server\bin\Debug\Server.exe.config
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Server\bin\Debug\Server.exe
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\b\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Server\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Server\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Server\Debug\Server.exe
+C:\Users\ASUS\Desktop\MarkoTaticProjekatRES\Project3_rees_pr13_pr15\.vs\Project3_rees_pr13_pr15\lut\0\i\Server\Debug\Server.pdb
