@@ -40,14 +40,14 @@ namespace Reader
                 Console.WriteLine("To refresh the last received value for the " + code + ", press r/R...");
 
                 string refresh = Console.ReadLine();
-                bool isValid = ChoiseRefresh(refresh);
+                bool isValid = ChooseRefresh(refresh);
 
                 while (isValid)
                 {
 
                     Refreshing refreshing = new Refreshing();
                     lastValue = refreshing.ReadRefreshValue(code);
-                    Console.WriteLine("The last refresh recived value for " + code +"is: " + lastValue);
+                    Console.WriteLine("The last refresh recived value for " + code +" is: " + lastValue);
 
                     Console.WriteLine();
 
@@ -56,7 +56,7 @@ namespace Reader
 
                     Console.WriteLine("To refresh the last received value for the " + code + ", press r/R...");
                     refresh = Console.ReadLine();
-                    isValid = ChoiseRefresh(refresh);
+                    isValid = ChooseRefresh(refresh);
                 }
             }
             else if (menu.Read == 2)
@@ -156,7 +156,7 @@ namespace Reader
             return ret;
         }
 
-        public bool ChoiseRefresh(string input) {
+        public bool ChooseRefresh(string input) {
             bool ret = false;
             if (input == "r" || input == "R")
             {

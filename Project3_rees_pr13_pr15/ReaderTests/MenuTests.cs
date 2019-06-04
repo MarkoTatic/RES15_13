@@ -22,7 +22,7 @@ namespace Reader.Tests
         {
             Menu menu = new Menu();
             bool expected = true;
-            bool actual = menu.ChoiseRead(input);
+            bool actual = menu.ChooseRead(input);
 
             Assert.AreEqual(expected, actual);
         }
@@ -33,7 +33,7 @@ namespace Reader.Tests
         {
             Menu menu = new Menu();
             bool expected = false;
-            bool actual = menu.ChoiseRead(input);
+            bool actual = menu.ChooseRead(input);
 
             Assert.AreEqual(expected, actual);
         }
@@ -51,7 +51,7 @@ namespace Reader.Tests
         {
             Menu menu = new Menu();
             bool expected = true;
-            bool actual = menu.ChoiseCode(input);
+            bool actual = menu.ChooseCode(input);
 
             Assert.AreEqual(expected, actual);
         }
@@ -64,7 +64,7 @@ namespace Reader.Tests
         {
             Menu menu = new Menu();
             bool expected = false;
-            bool actual = menu.ChoiseCode(input);
+            bool actual = menu.ChooseCode(input);
 
             Assert.AreEqual(expected, actual);
         }

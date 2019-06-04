@@ -12,7 +12,7 @@ namespace Writer
         {
             MenuWriter mw = new MenuWriter();
      
-            Console.WriteLine("Wellcome to reader side!");
+            Console.WriteLine("Wellcome to writer side!");
             mw.StartServerMenu();
             mw.StartWriterUI();
             Console.WriteLine("GOODBYE!");

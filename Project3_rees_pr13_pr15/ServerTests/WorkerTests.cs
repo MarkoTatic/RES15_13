@@ -14,6 +14,9 @@ namespace Server.Tests
     [TestFixture]
     public class WorkerTests
     {
+        Mock<IWorkerModel> mockWorkerModel = new Mock<IWorkerModel>();
+        Mock<ISqlDataAccess> mockSQL = new Mock<ISqlDataAccess>();
+
         [Test]
         [TestCase(true, 1, true, "1/6/2019 2:11:00 PM")]
 
@@ -53,8 +56,6 @@ namespace Server.Tests
         }
 
 
-        Mock<IWorkerModel> mockWorkerModel = new Mock<IWorkerModel>();
-
         [Test]
         public void CheckCodeTest_Valid_CodeDigital()
         {
@@ -88,8 +89,6 @@ namespace Server.Tests
             Assert.AreEqual(true, actual);
 
         }
-
-        Mock<ISqlDataAccess> mockSQL = new Mock<ISqlDataAccess>();
 
         [Test]
         [TestCase(1)]

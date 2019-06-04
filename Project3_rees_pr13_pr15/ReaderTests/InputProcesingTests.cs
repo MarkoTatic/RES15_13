@@ -11,68 +11,68 @@ namespace Reader.Tests
     [TestFixture]
     public class InputProcesingTests
     {
-        //[Test]
-        //[TestCase("R")]
-        //[TestCase("r")]
-        //public void ChoiseRefreshTest_ValidOk(string input)
-        //{
-        //    InputProcesing inputProcesing = new InputProcesing();
+        [Test]
+        [TestCase("R")]
+        [TestCase("r")]
+        public void ChoiseRefreshTest_ValidOk(string input)
+        {
+            InputProcesing inputProcesing = new InputProcesing();
 
-        //    bool expected = true;
-        //    bool actual = inputProcesing.ChoiseRefresh(input);
+            bool expected = true;
+            bool actual = inputProcesing.ChooseRefresh(input);
 
-        //    Assert.AreEqual(expected, actual);
-        //}
+            Assert.AreEqual(expected, actual);
+        }
 
-        //[Test]
-        //[TestCase("F")]
-        //[TestCase("tr")]
-        //public void ChoiseRefreshTest_ValidNOk(string input)
-        //{
-        //    InputProcesing inputProcesing = new InputProcesing();
+        [Test]
+        [TestCase("F")]
+        [TestCase("tr")]
+        public void ChoiseRefreshTest_ValidNOk(string input)
+        {
+            InputProcesing inputProcesing = new InputProcesing();
 
-        //    bool expected = false;
-        //    bool actual = inputProcesing.ChoiseRefresh(input);
+            bool expected = false;
+            bool actual = inputProcesing.ChooseRefresh(input);
 
-        //    Assert.AreEqual(expected, actual);
-        //}
+            Assert.AreEqual(expected, actual);
+        }
 
-        //[Test]
-        //[TestCase("6/1/2019 3:15:15 PM")]
-        //public void CheckDateTimeTest_ValideOk(DateTime input)
-        //{
-        //    InputProcesing inputProcesing = new InputProcesing();
+        [Test]
+        [TestCase("6/1/2019 3:15:15 PM")]
+        public void CheckDateTimeTest_ValideOk(DateTime input)
+        {
+            InputProcesing inputProcesing = new InputProcesing();
 
-        //    bool expected = true;
-        //    bool actual = inputProcesing.CheckDateTime(input);
+            bool expected = true;
+            bool actual = inputProcesing.CheckDateTime(input);
 
-        //    Assert.AreEqual(expected, actual);
-        //}
+            Assert.AreEqual(expected, actual);
+        }
 
-        //[Test]
-        //[TestCase("6/2/2019 3:14:55 PM", "6/3/2019 2:18:44 PM")]
-        //public void CheckCorectDateTimeTest_ValideOk(DateTime input1, DateTime input2)
-        //{
-        //    InputProcesing inputProcesing = new InputProcesing();
+        [Test]
+        [TestCase("6/2/2019 3:14:55 PM", "6/3/2019 2:18:44 PM")]
+        public void CheckCorectDateTimeTest_ValideOk(DateTime input1, DateTime input2)
+        {
+            InputProcesing inputProcesing = new InputProcesing();
 
-        //    bool expected = true;
-        //    bool actual = inputProcesing.CheckCorectDateTime(input1, input2);
+            bool expected = true;
+            bool actual = inputProcesing.CheckCorectDateTime(input1, input2);
 
-        //    Assert.AreEqual(expected, actual);
-        //}
+            Assert.AreEqual(expected, actual);
+        }
 
-        //[Test]
-        //[TestCase("6/3/2019 2:18:44 PM", "6/2/2019 3:14:55 PM")]
-        //[TestCase("6/2/2019 3:14:55 PM", "6/2/2019 3:14:55 PM")]
-        //public void CheckCorectDateTimeTest_ValideNOk(DateTime input1, DateTime input2)
-        //{
-        //    InputProcesing inputProcesing = new InputProcesing();
+        [Test]
+        [TestCase("6/3/2019 2:18:44 PM", "6/2/2019 3:14:55 PM")]
+        [TestCase("6/2/2019 3:14:55 PM", "6/2/2019 3:14:55 PM")]
+        public void CheckCorectDateTimeTest_ValideNOk(DateTime input1, DateTime input2)
+        {
+            InputProcesing inputProcesing = new InputProcesing();
 
-        //    bool expected = false;
-        //    bool actual = inputProcesing.CheckCorectDateTime(input1, input2);
+            bool expected = false;
+            bool actual = inputProcesing.CheckCorectDateTime(input1, input2);
 
-        //    Assert.AreEqual(expected, actual);
-        //}
+            Assert.AreEqual(expected, actual);
+        }
 
         /*[Test]
         [TestCase("18","35","2019", "3","85","15", "PM")]

@@ -30,12 +30,12 @@ namespace Reader
 
                 int number;
                 Int32.TryParse(Console.ReadLine(), out number);
-                isValid = ChoiseRead(number);
+                isValid = ChooseRead(number);
 
             } while (isValid == false);
         }
 
-        public bool ChoiseRead(int input) {
+        public bool ChooseRead(int input) {
             bool ret = false;
             if (input != 1 && input != 2 && input != 3)
             {
@@ -67,14 +67,14 @@ namespace Reader
                 int numCODE;
                 Int32.TryParse(Console.ReadLine(), out numCODE);
 
-                isValid = ChoiseCode(numCODE);                        
+                isValid = ChooseCode(numCODE);                        
 
 
             } while (isValid == false);
 
         }
 
-        public bool ChoiseCode(int input) {
+        public bool ChooseCode(int input) {
             bool ret = false;
 
             switch (input)

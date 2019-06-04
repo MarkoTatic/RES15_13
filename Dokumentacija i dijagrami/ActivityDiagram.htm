@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<!-- saved from url=(0016)http://localhost -->
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+    <title>ActivityDiagram</title>
+    <style>
+        body{
+            margin: 0;
+        }
+        #content-info{
+            width: auto;
+            margin: 0 auto;
+            text-align: center;
+        }
+        #author-info{
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            overflow: hidden;
+        }
+        #title{
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+            padding-top: 10px;
+            margin-bottom: 2px;
+            font-size: 34px;
+            color: #505050;
+        }
+        .text{
+            white-space:nowrap;
+            text-overflow: ellipsis;
+            display: inline-block;
+            margin-right: 20px;
+            margin-bottom: 2px;
+            font-size: 20px;
+            color: #8c8c8c;
+        }
+        #navBar{
+            position: fixed;
+            right:0;
+            bottom: 0;
+            background-color: #f0f3f4;
+            overflow-y: auto;
+            text-align: center;
+        }
+        #svg-container{
+            width: 100%;
+            min-width: 0;
+            margin: 0 10px;
+        }
+        #nav-thumbs{
+            padding: 0 5px;
+        }
+        .nav-thumb{
+            position: relative;
+            margin: 10px auto;
+        }
+        .nav-thumb >p{
+            text-align: center;
+            font-size: 12px;
+            margin: 4px 0 0 0;
+        }
+        .nav-thumb >div{
+            position: relative;
+            display: inline-block;
+            border: 1px solid #c6cfd5;
+        }
+        .nav-thumb img{
+            display: block;
+        }
+        .nav-thumb span{
+            pointer-events: none;
+        }
+        #main-content{
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: #d0cfd8;
+            display: flex;
+            height: auto;
+            flex-flow: row wrap;
+            text-align:center;
+        }
+        #svg-container >svg{
+            display: block;
+            margin:10px auto;
+            margin-bottom: 0;
+        }
+        #copyright{
+            bottom: 0;
+            left: 50%;
+            margin: 5px auto;
+            font-size: 16px;
+            color: #515151;
+        }
+        #copyright >a{
+            text-decoration: none;
+            color: #77C;
+        }
+        .number{
+            position: absolute;
+            top:0;
+            left:0;
+            border-top:22px solid #76838f;
+            border-right: 22px solid transparent;
+        }
+        .pagenum{
+            font-size: 12px;
+            color: #fff;
+            position: absolute;
+            top: -23px;
+            left: 2px;
+        }
+        #navBar::-webkit-scrollbar{
+            width: 8px;
+            background-color: #f5f5f5;
+        }
+        #navBar::-webkit-scrollbar-track{
+            -webkit-box-shadow: inset 0 0 4px rgba(0,0,0,.3);
+            border-radius: 8px;
+            background-color: #fff;
+        }
+        #navBar::-webkit-scrollbar-thumb{
+            border-radius: 8px;
+            -webkit-box-shadow: inset 0 0 4px rgba(0,0,0,.3);
+            background-color: #6b6b70;
+        }
+        #navBar::-webkit-scrollbar-thumb:hover{
+            background-color: #4a4a4f;
+        }
+        .nav-thumb >div:hover{
+            box-shadow:1px 1px 4px rgba(0,0,0,.4);
+        }
+        .selected .number{
+            border-color: #08a1ef transparent;
+        }
+</style>
+  </head>
+  <body>
+    <div id="main-area">
+      <div id="content-info">
+        <div id="title">ActivityDiagram</div>
+        <div id="author-info">
+          <div id="author-name" class="text">pc</div>
+          <div id="share-time" class="text">2019-05-21</div>
+        </div>
+      </div>
+      <div id="main-content">
+        <div id="svg-container"><svg id="page1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1122" height="3174" viewBox="0 0 1123 3175" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns="http://www.w3.org/2000/svg" preserveAspectRadio="xMinYMin meet"><style type="text/css"><![CDATA[
+.st2 {fill:#1f6391;font-family:Arial;font-size:10pt}
+.st1 {fill:#ffffff;font-family:Arial;font-size:10pt}
+]]></style><defs/><rect x="0" width="1123" height="3175" stroke="#808080" fill="#ffffff" y="0"/><g id="shape1" transform="translate(467,121)"><path d="M23.5,60L70.5,60C84.3,56.6,94,44.2,94,30C94,15.8,84.3,3.4,70.5,0L23.5,0C9.7,3.4,-0,15.8,-0,30C-0,44.2,9.7,56.6,23.5,60z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="16" y="26">Pokretanje </tspan><tspan x="20" y="42">aplikacije</tspan></text></g><g id="shape2" transform="translate(514,76)"><path d="M0,0L0,40.6" stroke="#236ea1" fill="none"/><path d="M0,45L3,39.8C2.1,40.3,1.1,40.6,0,40.6C-1.1,40.6,-2.1,40.3,-3,39.8L0,45" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><path d="M0,0L652,0" id="shape3" stroke-width="5" stroke="#4f81bd" transform="translate(189,265)" fill="none"/><g id="shape4" transform="translate(514,181)"><path d="M0,0L.9,79.6" stroke="#236ea1" fill="none"/><path d="M1,84L3.9,78.8C3.1,79.3,2,79.6,.9,79.6C-0.1,79.6,-1.2,79.3,-2.1,78.8L1,84" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape5" transform="translate(208,329)"><path d="M23.5,60L70.5,60C84.3,56.6,94,44.2,94,30C94,15.8,84.3,3.4,70.5,0L23.5,0C9.7,3.4,-0,15.8,-0,30C-0,44.2,9.7,56.6,23.5,60z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="24" y="26">Paljenje </tspan><tspan x="10" y="42">prvog vorkera</tspan></text></g><g id="shape6" transform="translate(255,265)"><path d="M0,0L0,59.6" stroke="#236ea1" fill="none"/><path d="M0,64L3,58.8C2.1,59.3,1.1,59.6,0,59.6C-1.1,59.6,-2.1,59.3,-3,58.8L0,64" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape7" transform="translate(718,321)"><path d="M23.5,76L70.5,76C84.9,68.8,94,54.1,94,38C94,21.9,84.9,7.2,70.5,0L23.5,0C9.1,7.2,-0,21.9,-0,38C-0,54.1,9.1,68.8,23.5,76z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="12" y="26">Izbor nacina </tspan><tspan x="28" y="42">citanja</tspan></text></g><g id="shape8" transform="translate(765,265)"><path d="M0,0L0,51.6" stroke="#236ea1" fill="none"/><path d="M0,56L3,50.8C2.1,51.3,1.1,51.6,0,51.6C-1.1,51.6,-2.1,51.3,-3,50.8L0,56" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><path d="M19,38L38,19L19,0L0,19L19,38z" id="shape9" stroke="#3498db" transform="translate(236,501)" fill="#3498db"/><g id="shape10" transform="translate(274,520)"><path d="M0,0L60,0L60,-161L32.4,-161" stroke="#236ea1" fill="none"/><path d="M28,-161L33.2,-158C32.7,-158.9,32.4,-159.9,32.4,-161C32.4,-162.1,32.7,-163.1,33.2,-164L28,-161" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape11" transform="translate(334,359)"><text class="st2"><tspan x="13" y="44.5">Čekanje </tspan><tspan x="13" y="60.5">da bude </tspan><tspan x="5" y="76.5">upaljen bar </tspan><tspan x="21" y="92.5">jedan </tspan><tspan x="17" y="108.5">worker</tspan></text></g><path d="M0,0L170,0" id="shape12" stroke-width="5" stroke="#4f81bd" transform="translate(170,633)" fill="none"/><g id="shape13" transform="translate(255,539)"><path d="M0,0L0,89.6" stroke="#236ea1" fill="none"/><path d="M0,94L3,88.8C2.1,89.3,1.1,89.6,0,89.6C-1.1,89.6,-2.1,89.3,-3,88.8L0,94" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape14" transform="translate(269,548)"><text class="st2"><tspan x="10" y="24.5">Ako je upaljen bar </tspan><tspan x="25" y="40.5">jedan worker</tspan></text></g><g id="shape15" transform="translate(166,728)"><path d="M23.5,60L70.5,60C84.3,56.6,94,44.2,94,30C94,15.8,84.3,3.4,70.5,0L23.5,0C9.7,3.4,-0,15.8,-0,30C-0,44.2,9.7,56.6,23.5,60z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="23" y="26">Gasenje </tspan><tspan x="25" y="42">workera</tspan></text></g><g id="shape16" transform="translate(189,633)"><path d="M0,0L22.9,90.7" stroke="#236ea1" fill="none"/><path d="M24,95L25.6,89.2C24.9,89.9,24,90.5,22.9,90.7C21.9,91,20.8,91,19.8,90.7L24,95" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><path d="M0,0L174.2,0" id="shape17" stroke-width="5" stroke="#4f81bd" transform="translate(255,713)" fill="none"/><g id="shape18" transform="translate(297.5,633)"><path d="M0,0L1,75.6" stroke="#236ea1" fill="none"/><path d="M1,80L4,74.8C3.1,75.3,2.1,75.6,1,75.6C-0.1,75.6,-1.1,75.3,-2,74.8L1,80" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape19" transform="translate(298,775)"><path d="M23.5,92L70.5,92C85.3,81.3,94,64.2,94,46C94,27.8,85.3,10.7,70.5,-0L23.5,0C8.7,10.7,0,27.8,0,46C0,64.2,8.7,81.3,23.5,92z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="9" y="26">Generisanje i </tspan><tspan x="30" y="42">slanje </tspan><tspan x="21" y="58">podataka</tspan></text></g><g id="shape20" transform="translate(342.09,713)"><path d="M0,0L2.7,57.6" stroke="#236ea1" fill="none"/><path d="M2.9,62L5.7,56.7C4.8,57.2,3.8,57.6,2.7,57.6C1.6,57.7,.6,57.4,-0.3,57L2.9,62" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><path d="M0,0L117.2,0" id="shape21" stroke-width="5" stroke="#4f81bd" transform="translate(99,950)" fill="none"/><g id="shape22" transform="translate(213,788)"><path d="M0,0L-54,157.8" stroke="#236ea1" fill="none"/><path d="M-55.4,162L-50.9,158.1C-51.9,158.3,-53,158.2,-54,157.8C-55,157.5,-55.9,156.9,-56.6,156.1L-55.4,162" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape23" transform="translate(255,389)"><path d="M0,0L0,107.6" stroke="#236ea1" fill="none"/><path d="M0,112L3,106.8C2.1,107.3,1.1,107.6,0,107.6C-1.1,107.6,-2.1,107.3,-3,106.8L0,112" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><path d="M19,38L38,19L19,0L0,19L19,38z" id="shape24" stroke="#3498db" transform="translate(326,982)" fill="#3498db"/><g id="shape25" transform="translate(326,1001)"><path d="M0,0L-32,0L-32,-94L-139.1,-94L-139.1,-55.4" stroke="#236ea1" fill="none"/><path d="M-139.1,-51L-136.1,-56.2C-137,-55.7,-138,-55.4,-139.1,-55.4C-140.2,-55.4,-141.2,-55.7,-142.1,-56.2L-139.1,-51" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape26" transform="translate(345,867)"><path d="M0,0L0,110.6" stroke="#236ea1" fill="none"/><path d="M0,115L3,109.8C2.1,110.3,1.1,110.6,0,110.6C-1.1,110.6,-2.1,110.3,-3,109.8L0,115" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape27" transform="translate(227,860)"><text class="st2"><tspan x="30" y="11.5">0 </tspan><tspan x="9" y="27.5">Workera</tspan></text></g><path d="M0,0L117.2,0" id="shape28" stroke-width="5" stroke="#4f81bd" transform="translate(288.82,1124)" fill="none"/><g id="shape29" transform="translate(345,1020)"><path d="M0,0L0,104" stroke="#236ea1" fill="none"/><path d="M0,0L-3,5.2C-2.1,4.7,-1.1,4.4,0,4.4C1.1,4.4,2.1,4.7,3,5.2L0,0" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape30" transform="translate(359,1039)"><text class="st2"><tspan x="4" y="16">1 ili vise </tspan><tspan x="4" y="32">Workera</tspan></text></g><g id="shape31" transform="translate(426,888)"><path d="M82.7,76C88.9,76,94,70.9,94,64.7L94,11.3C94,5.1,88.9,0,82.7,0L11.3,0C5.1,0,0,5.1,0,11.3L0,64.7C0,70.9,5.1,76,11.3,76L82.7,76z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="18" y="26">Čekanje 2 </tspan><tspan x="23" y="42">sekunde</tspan></text></g><g id="shape32" transform="translate(376.7,1124)"><path d="M0,0L24.1,0L24.1,38L96.3,38L96.3,-155.6" stroke="#236ea1" fill="none"/><path d="M96.3,-160L93.3,-154.8C94.2,-155.3,95.2,-155.6,96.3,-155.6C97.4,-155.6,98.4,-155.3,99.3,-154.8L96.3,-160" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape33" transform="translate(473,888)"><path d="M0,0L0,-208L-87.4,-208L-87.4,-179.4" stroke="#236ea1" fill="none"/><path d="M-87.4,-175L-84.4,-180.2C-85.2,-179.7,-86.3,-179.4,-87.4,-179.4C-88.5,-179.4,-89.5,-179.7,-90.4,-180.2L-87.4,-175" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape34" transform="translate(246,1200)"><path d="M23.5,60L70.5,60C84.3,56.6,94,44.2,94,30C94,15.8,84.3,3.4,70.5,0L23.5,0C9.7,3.4,-0,15.8,-0,30C-0,44.2,9.7,56.6,23.5,60z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="20" y="26">LB prijem</tspan></text></g><g id="shape35" transform="translate(318.12,1124)"><path d="M0,0L-25.1,0L-25.1,71.6" stroke="#236ea1" fill="none"/><path d="M-25.1,76L-22.1,70.8C-23,71.3,-24,71.6,-25.1,71.6C-26.2,71.6,-27.2,71.3,-28.1,70.8L-25.1,76" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape36" transform="translate(86,1332)"><path d="M94,76L94,0L0,0L0,76L94,76z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="14" y="26">Baferovanje </tspan><tspan x="30" y="42">na LB</tspan></text></g><g id="shape37" transform="translate(246,1465)"><path d="M23.5,60L70.5,60C84.3,56.6,94,44.2,94,30C94,15.8,84.3,3.4,70.5,0L23.5,0C9.7,3.4,-0,15.8,-0,30C-0,44.2,9.7,56.6,23.5,60z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="10" y="26">Slanje sa LB</tspan></text></g><g id="shape38" transform="translate(133,1408)"><path d="M0,0L0,25L160,25L160,52.6" stroke="#236ea1" fill="none"/><path d="M160,57L163,51.8C162.1,52.3,161.1,52.6,160,52.6C158.9,52.6,157.9,52.3,157,51.8L160,57" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape39" transform="translate(293,1260)"><path d="M0,0L0,40L-160,40L-160,67.6" stroke="#236ea1" fill="none"/><path d="M-160,72L-157,66.8C-157.9,67.3,-158.9,67.6,-160,67.6C-161.1,67.6,-162.1,67.3,-163,66.8L-160,72" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape40" transform="translate(246,1646)"><path d="M23.5,76L70.5,76C84.9,68.8,94,54.1,94,38C94,21.9,84.9,7.2,70.5,0L23.5,0C9.1,7.2,-0,21.9,-0,38C-0,54.1,9.1,68.8,23.5,76z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="20" y="26">Prijem na </tspan><tspan x="23" y="42">Workeru</tspan></text></g><g id="shape41" transform="translate(293,1525)"><path d="M0,0L0,116.6" stroke="#236ea1" fill="none"/><path d="M0,121L3,115.8C2.1,116.3,1.1,116.6,0,116.6C-1.1,116.6,-2.1,116.3,-3,115.8L0,121" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape42" transform="translate(246,1845)"><path d="M23.5,108L70.5,108C85.5,94,94,74.5,94,54C94,33.5,85.5,14,70.5,0L23.5,0C8.5,14,0,33.5,0,54C0,74.5,8.5,94,23.5,108z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="26" y="26">Provera </tspan><tspan x="11" y="42">popunjenosti </tspan><tspan x="21" y="58">primljene </tspan><tspan x="22" y="74">strukture</tspan></text></g><g id="shape43" transform="translate(293,1722)"><path d="M0,0L0,118.6" stroke="#236ea1" fill="none"/><path d="M0,123L3,117.8C2.1,118.3,1.1,118.6,0,118.6C-1.1,118.6,-2.1,118.3,-3,117.8L0,123" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><path d="M19,38L38,19L19,0L0,19L19,38z" id="shape44" stroke="#3498db" transform="translate(274,2022)" fill="#3498db"/><g id="shape45" transform="translate(246,2149)"><path d="M23.5,76L70.5,76C84.9,68.8,94,54.1,94,38C94,21.9,84.9,7.2,70.5,0L23.5,0C9.1,7.2,-0,21.9,-0,38C-0,54.1,9.1,68.8,23.5,76z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="22" y="26">Proverad </tspan><tspan x="14" y="42">deadband-a</tspan></text></g><path d="M19,38L38,19L19,0L0,19L19,38z" id="shape46" stroke="#3498db" transform="translate(274,2314)" fill="#3498db"/><g id="shape47" transform="translate(246,2436)"><path d="M23.5,60L70.5,60C84.3,56.6,94,44.2,94,30C94,15.8,84.3,3.4,70.5,0L23.5,0C9.7,3.4,-0,15.8,-0,30C-0,44.2,9.7,56.6,23.5,60z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="13" y="26">Generisanje </tspan><tspan x="11" y="42">timestamp-a</tspan></text></g><g id="shape48" transform="translate(246,2606)"><path d="M94,60L94,0L0,0L0,60L94,60z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="10" y="26">Perzistencija</tspan></text></g><g id="shape49" transform="translate(293,1953)"><path d="M0,0L0,64.6" stroke="#236ea1" fill="none"/><path d="M0,69L3,63.8C2.1,64.3,1.1,64.6,0,64.6C-1.1,64.6,-2.1,64.3,-3,63.8L0,69" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape50" transform="translate(293,2060)"><path d="M0,0L0,84.6" stroke="#236ea1" fill="none"/><path d="M0,89L3,83.8C2.1,84.3,1.1,84.6,0,84.6C-1.1,84.6,-2.1,84.3,-3,83.8L0,89" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape51" transform="translate(293,2225)"><path d="M0,0L0,84.6" stroke="#236ea1" fill="none"/><path d="M0,89L3,83.8C2.1,84.3,1.1,84.6,0,84.6C-1.1,84.6,-2.1,84.3,-3,83.8L0,89" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape52" transform="translate(293,2352)"><path d="M0,0L0,79.6" stroke="#236ea1" fill="none"/><path d="M0,84L3,78.8C2.1,79.3,1.1,79.6,0,79.6C-1.1,79.6,-2.1,79.3,-3,78.8L0,84" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape53" transform="translate(293,2496)"><path d="M0,0L0,105.6" stroke="#236ea1" fill="none"/><path d="M0,110L3,104.8C2.1,105.3,1.1,105.6,0,105.6C-1.1,105.6,-2.1,105.3,-3,104.8L0,110" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape54" transform="translate(293,2666)"><path d="M0,0L0,105.6" stroke="#236ea1" fill="none"/><path d="M0,110L3,104.8C2.1,105.3,1.1,105.6,0,105.6C-1.1,105.6,-2.1,105.3,-3,104.8L0,110" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape55" transform="translate(619,512)"><path d="M23.5,60L70.5,60C84.3,56.6,94,44.2,94,30C94,15.8,84.3,3.4,70.5,0L23.5,0C9.7,3.4,-0,15.8,-0,30C-0,44.2,9.7,56.6,23.5,60z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="19" y="26">Poslednja </tspan><tspan x="23" y="42">vrednost</tspan></text></g><path d="M19,38L38,19L19,0L0,19L19,38z" id="shape56" stroke="#3498db" transform="translate(746,439.5)" fill="#3498db"/><g id="shape57" transform="translate(839,504)"><path d="M23.5,76L70.5,76C84.9,68.8,94,54.1,94,38C94,21.9,84.9,7.2,70.5,0L23.5,0C9.1,7.2,-0,21.9,-0,38C-0,54.1,9.1,68.8,23.5,76z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="13" y="26">Vrednosti iz </tspan><tspan x="12" y="42">odrednjenog </tspan><tspan x="24" y="58">intervala</tspan></text></g><g id="shape58" transform="translate(765,397)"><path d="M0,0L0,38.1" stroke="#236ea1" fill="none"/><path d="M0,42.5L3,37.3C2.1,37.8,1.1,38.1,0,38.1C-1.1,38.1,-2.1,37.8,-3,37.3L0,42.5" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape59" transform="translate(746,458.5)"><path d="M0,0L-80,0L-80,49.1" stroke="#236ea1" fill="none"/><path d="M-80,53.5L-77,48.3C-77.9,48.8,-78.9,49.1,-80,49.1C-81.1,49.1,-82.1,48.8,-83,48.3L-80,53.5" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape60" transform="translate(784,458.5)"><path d="M0,0L102,0L102,41.1" stroke="#236ea1" fill="none"/><path d="M102,45.5L105,40.3C104.1,40.8,103.1,41.1,102,41.1C100.9,41.1,99.9,40.8,99,40.3L102,45.5" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><path d="M19,38L38,19L19,0L0,19L19,38z" id="shape61" stroke="#3498db" transform="translate(647,624)" fill="#3498db"/><g id="shape62" transform="translate(666,572)"><path d="M0,0L0,47.6" stroke="#236ea1" fill="none"/><path d="M0,52L3,46.8C2.1,47.3,1.1,47.6,0,47.6C-1.1,47.6,-2.1,47.3,-3,46.8L0,52" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape63" transform="translate(619,724)"><path d="M22,44L72,44C84.2,44,94,34.2,94,22C94,9.8,84.2,0,72,0L22,0C9.8,-0,0,9.8,0,22C-0,34.2,9.8,44,22,44z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="25" y="26">Refresh</tspan></text></g><g id="shape64" transform="translate(666,662)"><path d="M0,0L0,57.6" stroke="#236ea1" fill="none"/><path d="M0,62L3,56.8C2.1,57.3,1.1,57.6,0,57.6C-1.1,57.6,-2.1,57.3,-3,56.8L0,62" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><path d="M19,38L38,19L19,0L0,19L19,38z" id="shape65" stroke="#3498db" transform="translate(775,869)" fill="#3498db"/><g id="shape66" transform="translate(666,768)"><path d="M0,0L0,120L104.6,120" stroke="#236ea1" fill="none"/><path d="M109,120L103.8,117C104.3,117.9,104.6,118.9,104.6,120C104.6,121.1,104.3,122.1,103.8,123L109,120" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape67" transform="translate(886,580)"><path d="M0,0L0,308L-68.6,308" stroke="#236ea1" fill="none"/><path d="M-73,308L-67.8,311C-68.3,310.1,-68.6,309.1,-68.6,308C-68.6,306.9,-68.3,305.9,-67.8,305L-73,308" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape68" transform="translate(747,955)"><path d="M23.5,76L70.5,76C84.9,68.8,94,54.1,94,38C94,21.9,84.9,7.2,70.5,0L23.5,0C9.1,7.2,-0,21.9,-0,38C-0,54.1,9.1,68.8,23.5,76z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="27" y="26">Čitanje </tspan><tspan x="14" y="42">podataka iz </tspan><tspan x="33" y="58">baze</tspan></text></g><g id="shape69" transform="translate(794,907)"><path d="M0,0L0,43.6" stroke="#236ea1" fill="none"/><path d="M0,48L3,42.8C2.1,43.3,1.1,43.6,0,43.6C-1.1,43.6,-2.1,43.3,-3,42.8L0,48" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape70" transform="translate(794,1031)"><path d="M0,0L0,1605L-449.6,1605" stroke="#236ea1" fill="none"/><path d="M-454,1605L-448.8,1608C-449.3,1607.1,-449.6,1606.1,-449.6,1605C-449.6,1603.9,-449.3,1602.9,-448.8,1602L-454,1605" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><path d="M19,38L38,19L19,0L0,19L19,38z" id="shape71" stroke="#3498db" transform="translate(108,1049)" fill="#3498db"/><g id="shape72" transform="translate(128.29,950)"><path d="M0,0L-1.2,94.6" stroke="#236ea1" fill="none"/><path d="M-1.3,99L1.8,93.8C.9,94.3,-0.1,94.6,-1.2,94.6C-2.3,94.6,-3.4,94.3,-4.2,93.8L-1.3,99" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape73" transform="translate(108,1068)"><path d="M0,0L-47,0L-47,-709L95.6,-709" stroke="#236ea1" fill="none"/><path d="M100,-709L94.8,-712C95.3,-711.1,95.6,-710.1,95.6,-709C95.6,-707.9,95.3,-706.9,94.8,-706L100,-709" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape74" transform="translate(127,1087)"><path d="M0,0L0,143L114.6,143" stroke="#236ea1" fill="none"/><path d="M119,143L113.8,140C114.3,140.9,114.6,141.9,114.6,143C114.6,144.1,114.3,145.1,113.8,146L119,143" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><path/><g id="shape75" transform="translate(132,1120)"><text class="st2"><tspan x="13" y="18.5">1 ili vise </tspan><tspan x="11" y="34.5">Workera</tspan></text></g><g id="shape76" transform="translate(567,658.25)"><text class="st2"><tspan x="23" y="22">Osvezavanje </tspan><tspan x="41" y="38">vredsti</tspan></text></g><g id="shape77" transform="translate(676,606.5)"><text class="st2"><tspan x="14" y="15">Bez osvezavanja </tspan><tspan x="36" y="31">vrednosti</tspan></text></g><g id="shape78" transform="translate(685,643)"><path d="M0,0L109,0L109,221.6" stroke="#236ea1" fill="none"/><path d="M109,226L112,220.8C111.1,221.3,110.1,221.6,109,221.6C107.9,221.6,106.9,221.3,106,220.8L109,226" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g transform="translate(280,2776)"><path d="M0,13C0,5.8,5.8,0,13,0C20.1,0,25.9,5.8,25.9,13C25.9,20.1,20.1,25.9,13,25.9C5.8,25.9,0,20.1,0,13z" id="shape79" stroke="#3498db" transform="translate(0.28,0.04)" fill="#3498db"/><path d="M0,9.8C0,4.4,4.4,0,9.8,0C15.1,0,19.5,4.4,19.5,9.8C19.5,15.1,15.1,19.5,9.8,19.5C4.4,19.5,0,15.1,0,9.8z" id="shape80" stroke="#3498db" transform="translate(3.25,3.25)" fill="#3498db"/></g><path d="M0,13C0,5.8,5.8,0,13,0C20.2,0,26,5.8,26,13C26,20.2,20.2,26,13,26C5.8,26,0,20.2,0,13z" id="shape81" stroke="#3498db" transform="translate(501,50)" fill="#3498db"/><g id="shape82" transform="translate(383,2022)"><path d="M22,44L72,44C84.2,44,94,34.2,94,22C94,9.8,84.2,0,72,0L22,0C9.8,-0,0,9.8,0,22C-0,34.2,9.8,44,22,44z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="26" y="26">Greska</tspan></text></g><g id="shape83" transform="translate(393,2308)"><path d="M22,44L72,44C84.2,44,94,34.2,94,22C94,9.8,84.2,0,72,0L22,0C9.8,-0,0,9.8,0,22C-0,34.2,9.8,44,22,44z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="26" y="26">Greska</tspan></text></g><path d="M19,38L38,19L19,0L0,19L19,38z" id="shape84" stroke="#3498db" transform="translate(542.26,2168)" fill="#3498db"/><g transform="translate(645,2174)"><path d="M0,13C0,5.8,5.8,0,13,0C20.1,0,25.9,5.8,25.9,13C25.9,20.1,20.1,25.9,13,25.9C5.8,25.9,0,20.1,0,13z" id="shape85" stroke="#3498db" transform="translate(0.28,0.04)" fill="#3498db"/><path d="M0,9.8C0,4.4,4.4,0,9.8,0C15.1,0,19.5,4.4,19.5,9.8C19.5,15.1,15.1,19.5,9.8,19.5C4.4,19.5,0,15.1,0,9.8z" id="shape86" stroke="#3498db" transform="translate(3.25,3.25)" fill="#3498db"/></g><g id="shape87" transform="translate(312,2041)"><path d="M0,0L39,0L39,3L66.6,3" stroke="#236ea1" fill="none"/><path d="M71,3L65.8,0C66.3,.9,66.6,1.9,66.6,3C66.6,4.1,66.3,5.1,65.8,6L71,3" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape88" transform="translate(312,2333)"><path d="M0,0L49,0L49,-3L76.6,-3" stroke="#236ea1" fill="none"/><path d="M81,-3L75.8,-6C76.3,-5.1,76.6,-4.1,76.6,-3C76.6,-1.9,76.3,-0.9,75.8,-0L81,-3" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape89" transform="translate(477,2044)"><path d="M0,0L84.3,0L84.3,119.6" stroke="#236ea1" fill="none"/><path d="M84.3,124L87.3,118.8C86.4,119.3,85.4,119.6,84.3,119.6C83.2,119.6,82.1,119.3,81.3,118.8L84.3,124" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape90" transform="translate(487,2330)"><path d="M0,0L74.3,0L74.3,-119.6" stroke="#236ea1" fill="none"/><path d="M74.3,-124L71.3,-118.8C72.1,-119.3,73.2,-119.6,74.3,-119.6C75.4,-119.6,76.4,-119.3,77.3,-118.8L74.3,-124" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape91" transform="translate(580.26,2187)"><path d="M0,0L60.3,0" stroke="#236ea1" fill="none"/><path d="M64.7,0L59.5,-3C60.1,-2.1,60.3,-1.1,60.3,0C60.3,1.1,60.1,2.1,59.5,3L64.7,0" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape92" transform="translate(70,728)"><path d="M23.5,60L70.5,60C84.3,56.6,94,44.2,94,30C94,15.8,84.3,3.4,70.5,0L23.5,0C9.7,3.4,-0,15.8,-0,30C-0,44.2,9.7,56.6,23.5,60z" stroke="#3498db" fill="#3498db"/><text class="st1"><tspan x="24" y="26">Paljenje </tspan><tspan x="25" y="42">workera</tspan></text></g><g id="shape93" transform="translate(170,633)"><path d="M0,0L0,47.5L-53,47.5L-53,90.6" stroke="#236ea1" fill="none"/><path d="M-53,95L-50,89.8C-50.9,90.3,-51.9,90.6,-53,90.6C-54.1,90.6,-55.1,90.3,-56,89.8L-53,95" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g><g id="shape94" transform="translate(117,788)"><path d="M0,0L0,40.5L11.3,40.5L11.3,157.6" stroke="#236ea1" fill="none"/><path d="M11.3,162L14.3,156.8C13.4,157.3,12.4,157.6,11.3,157.6C10.2,157.6,9.2,157.3,8.3,156.8L11.3,162" stroke-width="1" stroke-linecap="round" stroke="#236ea1" fill="#236ea1"/></g></svg></div>
+        <div id="copyright">Created by <a href="https://www.edrawsoft.com/" target="_blank" title="edrawsoft">Edraw Max</a></div>
+      </div>
+      <div id="navBar">
+        <div id="nav-thumbs">
+          <div class="nav-thumb">
+            <div>
+              <span class="number">
+                <span class="pagenum">1</span>
+              </span>
+              <a href="#page1">
+                <img src="data:image/png;base64,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"/>
+              </a>
+            </div>
+            <p>Page-1</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+        const svgs=document.getElementById("svg-container").children;
+        const UA=window.navigator.userAgent;
+        const ua=(UA.indexOf('rv:11')+UA.indexOf('Firefox'))>=0;
+        const svgcount=document.getElementById('svg-container').childElementCount;
+        var styleArr=[];
+        var heightArr=[];
+        var navBar=document.getElementById('navBar');
+        var conInfo=document.getElementById('content-info');
+        for(var i=0;i<svgcount;i++){
+            styleArr[i] = {width:svgs[i].getAttribute('width'),height:svgs[i].getAttribute('height')}
+        }
+        window.onresize=function () {
+            renavstyle();
+            resvgstyle();
+        };
+        window.onscroll=renavstyle;
+        window.onload=function () {
+            renavstyle();
+            var sideWidth=navBar.offsetWidth;
+            document.getElementById('content-info').style.marginRight=sideWidth+'px';
+            document.getElementById('main-content').style.marginRight=sideWidth+'px';
+            resvgstyle();
+            doscroll();
+        };
+        function recontainstyle() {
+            var topHeight=conInfo.clientHeight;
+            var svgHeight=0;
+            for(var i=0;i<svgcount;i++){
+                heightArr[i]=svgs[i].getBoundingClientRect().height+10;
+                svgHeight+=svgs[i].clientHeight ||svgs[i].getBoundingClientRect().height;
+            }
+            var fullHeight=svgHeight+Number(topHeight);
+            if(fullHeight<window.innerHeight){
+            document.getElementById('copyright').style.position='absolute';
+            document.getElementById('copyright').style.transform ='translateX(-50%)';
+            document.getElementById('main-content').style.position='absolute';
+            document.getElementById('main-content').style.top=topHeight+'px';
+        }else{
+            document.getElementById('copyright').style.position='';
+            document.getElementById('copyright').style.transform ='';
+            document.getElementById('main-content').style.position='';
+        }
+        }
+        function resvgstyle() {
+            var sideWidth=navBar.offsetWidth+20;
+            for(var i=0;i<svgcount;i++){
+                var oriWidth = styleArr[i].width;
+                var oriHeight = styleArr[i].height;
+                var percent = oriHeight / oriWidth;
+                var innerWidth=document.body.offsetWidth-sideWidth;
+                if (innerWidth <= oriWidth) {
+                    svgs[i].removeAttribute('width');
+                    svgs[i].removeAttribute('height');
+                    if (ua) {
+                        svgs[i].setAttribute('height',innerWidth*percent);
+                    }
+                }else {
+                    svgs[i].setAttribute('width', oriWidth);
+                    svgs[i].setAttribute('height', oriHeight);
+                }
+            }
+            recontainstyle();
+        }
+        function renavstyle() {
+            var topHeight=conInfo.clientHeight;
+            var scrollTop=document.body.scrollTop||document.documentElement.scrollTop;
+            if(scrollTop>topHeight){
+                document.getElementById('navBar').style.top=0+'px';
+            }else{
+                document.getElementById('navBar').style.top=topHeight-scrollTop+'px';
+            }
+            doscroll();
+        }
+        function doscroll() {
+            var topHeight=conInfo.clientHeight;
+            var scrollTop=document.body.scrollTop||document.documentElement.scrollTop;
+            for(var i=0;i<svgcount;i++){
+                var sum=0;
+                for(var j=0;j<=i;j++){
+                    sum+=heightArr[j];
+                }
+                if(scrollTop+window.innerHeight/2-topHeight-sum<0){
+                    var sub=Number(i)+1;
+                    if(document.querySelector('#nav-thumbs .selected')){
+                        document.querySelector('#nav-thumbs .selected').classList.remove('selected');
+                    }
+                    document.querySelector('.nav-thumb:nth-of-type('+sub+')').classList.add('selected');
+                    break;
+                }
+            }
+        }
+        var navs=document.querySelectorAll('.nav-thumb');
+        for(i=0;i<navs.length;i++){
+            navs[i].children[0].onclick=function () {
+                document.querySelector('#nav-thumbs .selected').classList.remove('selected');
+                this.parentNode.classList.add('selected');
+            }
+        }
+</script>
+  </body>
+</html>
